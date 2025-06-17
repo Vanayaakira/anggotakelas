@@ -8,7 +8,7 @@ const studentsData = {
         absen: "01",
         instagram: "https://www.instagram.com/adnanf3734?igsh=MXF2Z3NhM3U2MjBzcg==",
         quote: "Teknologi bukan hanya tentang kode, tapi tentang memecahkan masalah dan membuat hidup lebih mudah.",
-        photo: "pics/d2.jpg"
+        photo: "pics/nan.jpg"
     },
     student2: {
         name: "ALDAFA PANCA PUTRA",
@@ -28,7 +28,7 @@ const studentsData = {
         absen: "03",
         instagram: "https://www.instagram.com/stewa_tjkt26?igsh=MW1hcHJiYXJwMnZyMw==",
         quote: "Sebagai System Administrator masa depan, saya percaya bahwa infrastruktur yang kuat adalah fondasi kesuksesan.",
-        photo: "pics/d2.jpg"
+        photo: "pics/nanda.jpg"
     },
     student4: {
         name: "ANFALUL AZZAHRA",
