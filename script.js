@@ -308,7 +308,7 @@ const studentsData = {
         absen: "31",
         instagram: "https://www.instagram.com/stewa_tjkt26?igsh=MW1hcHJiYXJwMnZyMw==",
         quote: "Digitalisasi adalah kunci untuk membuka potensi bisnis di era modern.",
-        photo: "nga.jpg"
+        photo: "sst.jpg"
     },
     student32: {
         name: "SYIFA ARIELA DEVANI",
