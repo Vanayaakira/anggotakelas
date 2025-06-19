@@ -28,7 +28,7 @@ const studentsData = {
         absen: "03",
         instagram: "https://www.instagram.com/stewa_tjkt26?igsh=MW1hcHJiYXJwMnZyMw==",
         quote: "Sebagai System Administrator masa depan, saya percaya bahwa infrastruktur yang kuat adalah fondasi kesuksesan.",
-        photo: "pics/nanda.jpg"
+        photo: "nga.jpg"
     },
     student4: {
         name: "ANFALUL AZZAHRA",
